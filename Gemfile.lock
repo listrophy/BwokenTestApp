@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/bendyworks/bwoken.git
-  revision: 549e18484737b4bf2b27ef34d1d2346da3d8d4ae
-  ref: 549e18484737b4bf2b27ef34d1d2346da3d8d4ae
+  revision: ea03ca64b7bc48fa3c4499ed4a69dedc63031966
+  ref: ea03ca6
   specs:
     bwoken (2.1.0.rc.2)
       coffee-script-source
