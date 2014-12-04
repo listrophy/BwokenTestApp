@@ -1,0 +1,26 @@
+PATH
+  remote: ../bwoken
+  specs:
+    bwoken (2.1.0.rc.2)
+      coffee-script-source
+      colorful
+      execjs
+      json_pure
+      rake
+      slop
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coffee-script-source (1.8.0)
+    colorful (0.0.3)
+    execjs (2.2.2)
+    json_pure (1.8.1)
+    rake (10.3.2)
+    slop (3.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bwoken!
