@@ -1,5 +1,7 @@
-PATH
-  remote: ../bwoken
+GIT
+  remote: git://github.com/bendyworks/bwoken.git
+  revision: 549e18484737b4bf2b27ef34d1d2346da3d8d4ae
+  ref: 549e18484737b4bf2b27ef34d1d2346da3d8d4ae
   specs:
     bwoken (2.1.0.rc.2)
       coffee-script-source
@@ -16,7 +18,7 @@ GEM
     colorful (0.0.3)
     execjs (2.2.2)
     json_pure (1.8.1)
-    rake (10.3.2)
+    rake (10.4.2)
     slop (3.6.0)
 
 PLATFORMS
