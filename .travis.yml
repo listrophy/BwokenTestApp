@@ -2,3 +2,5 @@
 language: ruby
 os: osx
 script: bwoken test
+rvm:
+  - 2.1.1
