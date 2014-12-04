@@ -1,6 +1,6 @@
 ---
 language: ruby
 os: osx
-script: bwoken test
+script: bundle exec bwoken test
 rvm:
   - 2.1.1
