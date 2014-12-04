@@ -2,8 +2,8 @@
 language: ruby
 os: osx
 before_script:
-  - xcodebuild -version
-  - swiftc -v
+  - /usr/bin/xcrun xcodebuild -version
+  - /usr/bin/xcrun swiftc -v
 script: bundle exec bwoken test
 rvm:
   - 2.1.1
